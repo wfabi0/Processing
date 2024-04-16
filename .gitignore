@@ -1,5 +1,6 @@
 *
 
 !/.gitignore
-!/sketch_*
+!**/sketch*/
+!**/sketch*/**
 !/README.md
