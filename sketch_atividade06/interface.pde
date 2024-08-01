@@ -1,0 +1,3 @@
+interface Cenario {
+  void display();
+}
